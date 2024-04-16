@@ -15,6 +15,7 @@ const config = {
 };
 
 
+
 // Crear el pool de conexiones
 const pool = mysql.createPool(config);
 
